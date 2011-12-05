@@ -1,0 +1,6 @@
+Sample crontab configuration
+============================
+
+    # Run watcher every 30 minutes
+    */30 * * * * /opt/watcher/watcher.py /opt/watcher/watcher.conf
+
